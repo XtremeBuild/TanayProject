@@ -1,7 +1,7 @@
 # TanayProject
 Repo for Tanay's Project
 
-I made new changes
+I made new changes and added smth new
 <table>
   <tbody>
     <tr>
